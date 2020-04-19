@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Androidx Material Fab</string>
+    <string name="app_title">An Example of Androidx Material Fab</string>
+</resources>

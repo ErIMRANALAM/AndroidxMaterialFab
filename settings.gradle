@@ -1,0 +1,2 @@
+rootProject.name='Material Fab'
+include ':app'
